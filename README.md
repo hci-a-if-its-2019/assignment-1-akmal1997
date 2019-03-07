@@ -18,6 +18,7 @@ This is the identity of the users that i interviewed with this case:
   <li>Active Internet user</li>
   <li>Active Smartphone and Computer user</li>
 </ul>
+
 ## Transcript
 
 ```
@@ -29,7 +30,7 @@ Me: Nah, posisimu sekarang kan belum register, itu jangan kamu register. Biarin 
 Her: Oke, aku masukkin aja ya, namanya semisal Bebel gitu ya? (Note: Bebel = Fake name)
 Me: Oke, setelah itu keluarnya apa?
 Her: Data tambahan pemesanan telah disimpan, silahkan melanjutkan proses pembayaran
-Me: Berhasil kan? Padahal pakai identitas palsu semua
+Me: Berhasil kan? Padahal pakai identitas palsu semua dan barangnya out of stock :D :D :D
 Her: Lhaaaa :D :D :D
 ```
 
