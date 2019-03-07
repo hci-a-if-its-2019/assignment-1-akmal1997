@@ -22,24 +22,45 @@ This is the identity of the users that i interviewed with this case:
 ## Transcript
 
 ```
-Me: Coba kamu buka sahabatkereta.or.id/shop di HPmu
-Her: Iya, terus ngapain?
-Me: Nah, sekarang kamu coba beli sesuatu dari sana. Semisal kamu beli gantungan kunci aja
-Her: Oke, terus setelah itu?
-Me: Nah, posisimu sekarang kan belum register, itu jangan kamu register. Biarin aja. Sekarang, coba kamu beli dan masukkin nomor ID sama nama terserah kamu. No IDnya harus diawali dengan SK-blablabla
-Her: Oke, aku masukkin aja ya, namanya semisal Bebel gitu ya? (Note: Bebel = Fake name)
-Me: Oke, setelah itu keluarnya apa?
-Her: Data tambahan pemesanan telah disimpan, silahkan melanjutkan proses pembayaran
-Me: Berhasil kan? Padahal pakai identitas palsu semua dan barangnya out of stock :D :D :D
-Her: Lhaaaa :D :D :D
+1. Me: Coba kamu buka sahabatkereta.or.id/shop di HPmu
+2. Her: Iya, terus ngapain?
+3. Me: Nah, sekarang kamu coba beli sesuatu dari sana. Semisal kamu beli gantungan kunci aja
+4. Her: Oke, terus setelah itu?
+5. Me: Nah, posisimu sekarang kan belum register, itu jangan kamu register. Biarin aja. Sekarang, coba kamu beli dan masukkin nomor ID sama nama terserah kamu. No IDnya harus diawali dengan SK-blablabla
+6. Her: Oke, aku masukkin aja ya, namanya semisal Bebel gitu ya? (Note: Bebel = Fake name)
+7. Me: Oke, setelah itu keluarnya apa?
+8. Her: Data tambahan pemesanan telah disimpan, silahkan melanjutkan proses pembayaran
+9. Me: Berhasil kan? Padahal pakai identitas palsu semua dan barangnya out of stock :D :D :D
+10. Her: Lhaaaa :D :D :D
 ```
 
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+<br>
+<img src="https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-1-akmal1997/master/media/dua.jpeg">
+<br>
+When the user that i interviewed try to input the out of stock keychain and using a fake identity (Like in line 6 in transcript)
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-1-akmal1997/master/media/satu.jpeg">
+<br>
+After the user filled the name and the member number. And the system accepting the orders and you can proceed to payment (Like in line 8 in transcript)
+<br>
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+Do:
+<ul>
+  <li>Keep the design, because it easier to buy something</li>
+  <li>If the product is out of stock, the buy button must gone or unclickable</li>
+  <li>If you want to buy something that the things that only valid Sahabat Kereta members that can buy some product (Like the uniform and the extra name badge and name badge keychain), you must register first before buying (In this case, only for buying official uniform that require to login. But, not for name badge or name badge keychain) </li>
+  <li>Must using verification for buying that require to input the name and the Sahabat Kereta member number. The verification can using phone number, or database, or anything else that the fake identity cannot buy something)</li>
+  <li>Make the website more clearer and better layout in products. The layout sometimes can be mess if you opened with computer</li>
+</ul>
+Dont:
+<ul>
+  <li>Make more complicated to order</li>
+  <li>Change the colouring and change the font size and type</li>
+</ul>
