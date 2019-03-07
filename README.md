@@ -19,6 +19,7 @@ This is the identity of the users that i interviewed with this case:
   <li>Active Smartphone and Computer user</li>
 </ul>
 ## Transcript
+
 ```
 Me: Coba kamu buka sahabatkereta.or.id/shop di HPmu
 Her: Iya, terus ngapain?
@@ -31,6 +32,7 @@ Her: Data tambahan pemesanan telah disimpan, silahkan melanjutkan proses pembaya
 Me: Berhasil kan? Padahal pakai identitas palsu semua
 Her: Lhaaaa :D :D :D
 ```
+
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
