@@ -35,6 +35,7 @@ This is the identity of the users that i interviewed with this case:
 ```
 
 ## Models and Annotations
+
 ### Artifact Model
 <br>
 <img src="https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-1-akmal1997/master/media/dua.jpeg">
@@ -46,11 +47,19 @@ When the user that i interviewed try to input the out of stock keychain and usin
 <br>
 After the user filled the name and the member number. And the system accepting the orders and you can proceed to payment (Like in line 8 in transcript)
 <br>
+
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+<br>
+<img src="https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-1-akmal1997/master/media/empat.jpg">
+<br>
+
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+<br>
+<img src="https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-1-akmal1997/master/media/tiga.jpg">
+<br>
+
 ## Do's and Don't's
+
 Do:
 <ul>
   <li>Keep the design, because it easier to buy something</li>
