@@ -68,7 +68,7 @@ Do:
   <li>Must using verification for buying that require to input the name and the Sahabat Kereta member number. The verification can using phone number, or database, or anything else that the fake identity cannot buy something)</li>
   <li>Make the website more clearer and better layout in products. The layout sometimes can be mess if you opened with computer</li>
 </ul>
-Dont:
+Don't:
 <ul>
   <li>Make more complicated to order</li>
   <li>Change the colouring and change the font size and type</li>
