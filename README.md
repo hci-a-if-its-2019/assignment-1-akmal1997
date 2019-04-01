@@ -73,3 +73,15 @@ Don't:
   <li>Make more complicated to order</li>
   <li>Change the colouring and change the font size and type</li>
 </ul>
+
+
+# Remarks
+> * Thanks for completing all the parts in this assignment. Nevertheless, please pay attention to following comments to make this assignment report better.
+> * You don't need to add a subject (`User`) to every sentence on your `Instruction Script`. The sentence should represent what exactly you are going to say to the participants during the interview/experiment.
+> * Reading from your `Transcript`, I think what you've done is testing the feature/functionality of the website. You may need to bring other issues caused specifically by bad UIs, not broken features.
+> * Thanks for working on the `Models`. However, your `Annotations` on the Models seems incomplete. The `Artifact Model` does not have any visible breakdowns or annotations. The breakdowns on the `Flow Models` also does not have line-numbers referring to the `Transcript`. Without reference, the breakdowns on the models cannot be proved. Furthermore, the `Culture Model` looks more like Use Case or Flow Diagrams. Please revisit the theoretical background of Culture Model to understand better.
+> * The `Do's' and Don't's` section should expose your ideas for design fixes. Thus, `Keep the design` in `Do's` and `Change the colouring` in `Don't's` do not count.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 8                | 0               | 77,5               | 81         | 78,2  |
